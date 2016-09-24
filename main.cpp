@@ -4,8 +4,8 @@
 int main()
 {
 
-	int test var = 0;
-	
+	int test = 0;
+
 
 return 0;
 }
